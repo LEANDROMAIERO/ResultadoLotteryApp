@@ -24,7 +24,7 @@ Tecnologias utilizadas:
 
  link do App:
 
-https://www.lotteryresults-leandro.surge.sh
+www.lotteryresults-leandro.surge.sh
 
 ##
 

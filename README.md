@@ -27,7 +27,7 @@ Tecnologias utilizadas:
 www.lotteryresults-leandro.surge.sh
 
 ##
-
+ 
 ### Imagens
 ![image](https://user-images.githubusercontent.com/91208460/164301543-4558ca60-76a7-4b50-844c-68fabf7bc8f8.png)
 
